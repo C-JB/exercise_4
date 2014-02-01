@@ -11,3 +11,4 @@
      b = n;
    }
   }
+// I don't understand why the formula doesn't work into the loop
