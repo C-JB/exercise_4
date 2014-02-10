@@ -1,4 +1,5 @@
-// Calculate the first 20 terms of the 12 times table.
+
+// Question numéro 5 de l'exercice 4.  
 
 main(){
   print('');
