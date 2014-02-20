@@ -1,5 +1,27 @@
 ex04
+19/20
 
 ex04_1
+4/4
 
-corriger les erreurs de syntaxe
+corriger les erreurs de syntaxe dans test.dart
+ou supprimer le fichier
+
+ex04_2
+4/4
+
+ex04_3
+3/4
+
+34 years
+(-1) ainsi que plusieurs mois et plusieurs jours?
+
+ex04_4
+4/4
+
+
+
+(-4) ex04_5
+
+
+
